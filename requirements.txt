@@ -1,0 +1,12 @@
+gradio
+langchain
+openai
+tiktoken
+langchain-openai
+langchain-google-genai
+langchain-anthropic
+langchain-core
+pyyaml
+pydantic
+networkx
+pyvis
